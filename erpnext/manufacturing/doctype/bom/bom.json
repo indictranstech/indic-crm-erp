@@ -1271,16 +1271,16 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2016-11-21 17:06:49.349654", 
- "modified_by": "rohit@erpnext.com", 
+ "modified": "2017-04-28 10:30:39.945876", 
+ "modified_by": "Administrator", 
  "module": "Manufacturing", 
  "name": "BOM", 
  "owner": "Administrator", 
  "permissions": [
   {
-   "amend": 0, 
+   "amend": 1, 
    "apply_user_permissions": 0, 
-   "cancel": 0, 
+   "cancel": 1, 
    "create": 1, 
    "delete": 1, 
    "email": 1, 
@@ -1295,7 +1295,7 @@
    "role": "All", 
    "set_user_permissions": 0, 
    "share": 1, 
-   "submit": 0, 
+   "submit": 1, 
    "write": 1
   }, 
   {

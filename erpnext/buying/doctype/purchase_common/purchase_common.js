@@ -326,6 +326,6 @@ erpnext.buying.get_items_from_product_bundle = function(frm) {
 				}
 			}
 		})
-	});
+	})
 	dialog.show();
 }
